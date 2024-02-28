@@ -244,7 +244,7 @@ if   __name__ == "__main__":
 
 
 ```
-###output:
-![output]()
-###Result:
+### output:
+![output](https://github.com/jhansi21005096/19AI405ExpNo1/blob/main/outputta.png)
+### Result:
 Thus, an AI agent is developed.
